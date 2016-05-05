@@ -15,6 +15,7 @@ import http.wh.comhttp.error.AppException;
 
 public class MainActivity extends BaseActivity {
     private static final String TAG = "MainActivity";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
